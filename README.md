@@ -82,7 +82,7 @@ Me chamo Giovana Temóteo, tenho 20 anos e sou de Brasília. Atualmente, estou c
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=TDGiovana&show_icons=true&theme=synthwave&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=TDGiovana&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
@@ -90,7 +90,7 @@ Me chamo Giovana Temóteo, tenho 20 anos e sou de Brasília. Atualmente, estou c
       alt="GitHub Stats" 
       height="200" 
       style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TDGiovana&theme=synthwave&layout=compact&custom_title=Tecnologias&langs_count=7" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TDGiovana&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
 
 </p>
