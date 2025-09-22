@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-End`**
 
-Me chamo Giovana Temóteo, tenho 20 anos e sou de Brasília. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UDF. Sou apaixonada por tecnologia desde criança e estou sempre bsucando mais conhecimento na área da tecnologia.
+Me chamo Giovana Temóteo, tenho 20 anos e sou de Brasília. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UDF. Sou apaixonada por tecnologia desde criança e estou sempre bsucando mais conhecimento na área.
 
 
 
