@@ -92,5 +92,10 @@ Me chamo Giovana Temóteo, tenho 20 anos e sou de Brasília. Atualmente, estou c
       style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=TDGiovana&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
+  <div>
+       <img src="https://raw.githubusercontent.com/TDGiovana/TDGiovana/output/snake.svg" alt="Snake animation"
+      />
+ 
+  </div>
 
 </p>
